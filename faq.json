@@ -1,0 +1,130 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, general-purpose programming language known for its simple syntax and readability."
+  },
+  {
+    "question": "What are the key features of Python?",
+    "answer": "Python offers readability, a large standard library, cross-platform support, and an extensive ecosystem of third-party packages."
+  },
+  {
+    "question": "How do I install Python?",
+    "answer": "You can download Python from the official website python.org and follow the installation instructions for your operating system."
+  },
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence is the field of creating systems that can perform tasks that normally require human intelligence, such as reasoning and decision-making."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI where computer systems learn patterns from data to make predictions or decisions."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep learning is a branch of machine learning that uses neural networks with many layers to model complex patterns."
+  },
+  {
+    "question": "What is data science?",
+    "answer": "Data science is the field of extracting insights and knowledge from structured and unstructured data using statistics, programming, and domain expertise."
+  },
+  {
+    "question": "What is the difference between AI and machine learning?",
+    "answer": "AI is the broad field of intelligent systems, while machine learning is a specific approach within AI that learns from data."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a computational model inspired by the human brain that learns patterns from data."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning trains models on labeled data where the correct output is known."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning finds hidden patterns in data without labeled outputs."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning trains agents to make decisions by receiving rewards or penalties based on their actions."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that simulates conversation with users using rules, NLP, or AI techniques."
+  },
+  {
+    "question": "How does NLP work?",
+    "answer": "Natural Language Processing uses computational methods to analyze, understand, and generate human language."
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF is a numerical statistic that reflects how important a word is to a document within a collection of documents."
+  },
+  {
+    "question": "What is cosine similarity?",
+    "answer": "Cosine similarity measures how similar two vectors are by calculating the cosine of the angle between them."
+  },
+  {
+    "question": "What is a variable in Python?",
+    "answer": "A variable is a named location in memory used to store data values during program execution."
+  },
+  {
+    "question": "How do I define a function in Python?",
+    "answer": "You define a function in Python using the def keyword followed by the function name and parentheses."
+  },
+  {
+    "question": "What is a list in Python?",
+    "answer": "A list is an ordered, mutable collection of items in Python."
+  },
+  {
+    "question": "What is a dictionary in Python?",
+    "answer": "A dictionary stores data as key-value pairs and is commonly used for mapping values."
+  },
+  {
+    "question": "What is a for loop in Python?",
+    "answer": "A for loop iterates over a sequence and executes a block of code for each item."
+  },
+  {
+    "question": "What is object-oriented programming?",
+    "answer": "Object-oriented programming organizes software design around objects that combine data and behavior."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API is an interface that allows different software systems to communicate with each other."
+  },
+  {
+    "question": "What is version control?",
+    "answer": "Version control is the practice of tracking and managing changes to source code over time."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used to track changes in source code."
+  },
+  {
+    "question": "What is an internship?",
+    "answer": "An internship is a temporary work experience that helps students or graduates gain practical skills and industry exposure."
+  },
+  {
+    "question": "How can I prepare for an internship?",
+    "answer": "You can prepare by improving your technical skills, building projects, and practicing communication and problem-solving."
+  },
+  {
+    "question": "What skills are useful for AI internships?",
+    "answer": "Useful skills include Python, machine learning, statistics, data handling, and communication."
+  },
+  {
+    "question": "What is a dataset in machine learning?",
+    "answer": "A dataset is a collection of examples used to train and evaluate machine learning models."
+  },
+  {
+    "question": "What is model evaluation?",
+    "answer": "Model evaluation measures how well a trained model performs on new or unseen data."
+  },
+  {
+    "question": "What is overfitting?",
+    "answer": "Overfitting occurs when a model learns the training data too closely and performs poorly on new data."
+  },
+  {
+    "question": "What is feature engineering?",
+    "answer": "Feature engineering is the process of selecting and transforming variables to improve model performance."
+  }
+]
